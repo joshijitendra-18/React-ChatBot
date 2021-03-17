@@ -103,7 +103,7 @@ class NBar extends React.Component {
   render() {
     return (
       <div className="nbarformat">
-        <Logo titletext="&nbsp;&nbsp;ZaneBot" />
+        <Logo titletext="&nbsp;&nbsp;ChatBot" />
         <NButton sendToggle={this.props.sendToggle} />
       </div>
     )
